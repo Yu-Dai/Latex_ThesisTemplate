@@ -1,0 +1,70 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 全幅光譜影像\relax }}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 全幅光譜影像縱向分區\relax }}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces DG與強度擬合結果圖\relax }}{9}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 單雷射波型經Hilbert Transform轉換\relax }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 失真嚴重的雷射波形高斯擬合前後比較圖}}{11}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces DLL檔運作圖\relax }}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 軟體架構總流程圖\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 全幅雷射光譜影像\relax }}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 漏光光譜影像\relax }}{20}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 漏光時全幅影像光譜波形圖\relax }}{20}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 全幅雷射ROI光譜影像\relax }}{21}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces ROI光譜影像\relax }}{21}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ROI光譜強度圖\relax }}{23}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces 白光光譜過瞨圖\relax }}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces 白光光譜強度過低圖\relax }}{24}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 白光光譜經Auto Scaling後光譜波形表現\relax }}{25}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Auto Scaling流程圖\relax }}{26}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces 波峰位置偵測流程圖\relax }}{27}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Auto Scaling後汞氬燈光譜圖\relax }}{28}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces 汞氬燈目標波峰位置圖\relax }}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces 汞氬燈數據分區交界點\relax }}{30}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces 氬燈數據AutoScaling後光譜波形圖\relax }}{31}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces 氬燈數據AutoScaling並合併後光譜波形圖\relax }}{31}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces 原始光譜經由Hilbert Transform後的區域最大值與最小值位置\relax }}{32}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces 滿足斜率線段之中點即為粗略峰值位置點\relax }}{33}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces 粗略峰值位置偵測\relax }}{33}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces 平衡後汞氬燈波型數據所有區域最大值與最小值\relax }}{34}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces 平衡後汞氬燈波峰數據擬和區域分割點\relax }}{35}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces 平衡後汞氬燈波峰數據擬和區域分割\relax }}{36}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces 區域分割後數據以勞倫茲模型擬合結果圖\relax }}{36}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces 區域分割後數據以勞倫茲模型擬合後且標示出精確波峰位置結果圖\relax }}{37}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces 區域分割後數據剔除無效峰值點後精確波峰位置結果圖\relax }}{38}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces 最終目標波峰的峰值位置與強度結果圖\relax }}{40}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.29}{\ignorespaces 雷射光譜強度波型圖\relax }}{41}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.30}{\ignorespaces 較短波長的雷射光譜強度波型圖\relax }}{42}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces 雷射光譜區域最大值與最小值像素位置表示圖\relax }}{43}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces 雷射光譜以斜率分割後之波峰區域表示圖\relax }}{43}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces 雷射光譜以強度過濾後之主波峰區域表示圖\relax }}{44}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces 雷射光譜主波峰區域進行勞倫茲擬合後結果圖\relax }}{45}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces 所有單雷射光譜經單雷射波峰位置偵測後結果疊圖\relax }}{46}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces 空間轉換擬合曲線\relax }}{49}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces 汞氬燈於不同晶片的光譜表現}}{50}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces 波形優良但基線不佳之晶片比較}}{51}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces 基線優良但波形不佳之晶片比較}}{52}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.40}{\ignorespaces 白光LED光譜\relax }}{53}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.41}{\ignorespaces 藍光區域以勞倫茲模型擬合結果\relax }}{54}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.42}{\ignorespaces 螢光區域以高斯模型擬合結果\relax }}{55}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.43}{\ignorespaces 雙模型擬合結果\relax }}{56}{figure.caption.55}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 同一晶片下不同光源的ROI SCAN結果圖}}{57}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 同一晶片下不同光源的光譜圖形}}{57}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 峰值偵測與三次多項式擬合結果\relax }}{58}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 汞燈光譜量化\relax }}{59}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 白光光譜量化\relax }}{59}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 20C4-205-C4晶片汞氬燈峰值偵測與擬合曲線\relax }}{61}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 20C4-207-A3晶片汞氬燈峰值偵測與擬合曲線\relax }}{62}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 2144-102-B4晶片汞氬燈峰值偵測與擬合曲線\relax }}{62}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 20C4-205-C4晶片雷射峰值偵測與擬合曲線\relax }}{64}{figure.caption.64}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 20C4-207-A3晶片雷射峰值偵測與擬合曲線\relax }}{64}{figure.caption.65}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 2144-102-B4晶片雷射峰值偵測與擬合曲線\relax }}{65}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces 20C4-205-C4晶片結合校正擬合曲線\relax }}{66}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces 20C4-207-A3晶片結合校正擬合曲線\relax }}{67}{figure.caption.68}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces 2144-102-B4晶片結合校正擬合曲線\relax }}{67}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces 三個晶片轉換至波長空間後的白光光譜疊圖\relax }}{71}{figure.caption.70}%
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 

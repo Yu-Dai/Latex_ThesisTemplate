@@ -1,0 +1,15 @@
+% !TeX root = ../main.tex
+
+\begin{abstract}
+	\vspace{-1.1cm}
+光譜晶片完成時，將訊息從像素空間轉換至光譜空間的轉換稱為波長校正，波長校正需要多組光譜峰值之像素位置與其對應波長。在人為校正的情況下，經常僅能找到粗略的波峰位置，且計算時耗時許久，因此有不精確、效率低、擬合錯誤這三個致命的缺點。\par
+在單一筆已知數據情況下要找到光譜中精確的每一個波峰並不困難，本研究提出一個自動化通用型波長校正方法，對於未知效能之光譜晶片校正仍有良好的效果，並對於所有校正流程皆提出對應方式與完整的銜接。輸入影像採用橫向掃描式找到準確ROI，接著Auto Scaling將光譜最大強度調整至指定強度，解決光譜過曝與過暗問題。在光譜輸入環境調整完成後，將光譜分區使得每一區域中僅有一波峰，接著使用高斯擬合或勞倫茲擬合找出精準波峰位置。使用汞氬燈與雷射雙光源校正，結合雙光源的特徵峰像素位置與絕對波長進行多項式擬合得出空間轉換方程式。本研究實際校正後之晶片進行空間轉換後波長與標準波長平均誤差低至3nm內。
+\end{abstract}
+
+\begin{abstract*}
+	\vspace{-1cm}
+When the spectral chip is completed, the conversion of the information from the pixel space to the spectral space is called wavelength correction. Wavelength correction requires multiple pixel position and wavelength sets of peak. In the case of artificial correction, only a rough peak position can be found, and the calculation takes a long time, so there are three fatal shortcomings: inaccuracy, low efficiency, and fitting errors.\par
+
+ It is not difficult to find the precise peaks in the spectrum when the data is unchanged. This research proposes an automated general-purpose wavelength calibration method, which still has a good effect on the calibration of spectrum chips with unknown performance. And for all calibration procedures, corresponding methods and complete connections are proposed. The input image uses horizontal scanning to find the accurate ROI, and then Auto Scaling adjusts the maximum intensity of the spectrum to the specified intensity to solve the problem of over-exposure and very-low-intensity of the spectrum. After the adjustment is completed, the spectrum is divided so that there is only one peak in each region, and then Gaussian fitting or Lorenz fitting is used to find the precise peak position. Use the Hg-Ar lamp and laser multi-light source calibration, combine the characteristic peak pixel positions of the multi-light sources and their absolute wavelengths to perform polynomial fitting to obtain the spatial conversion equation. The RMSE between the converted wavelength of the corrected chip and the standard wavelength is as low as 3nm.
+
+\end{abstract*}

@@ -1,0 +1,63 @@
+% !TEX TS-program = xelatex
+% !BIB program = bibtex
+% !TEX encoding = UTF-8 Unicode
+
+\documentclass[
+  oneoside,
+  openright,
+  degree    = master,               % degree = master | doctor
+  language  = chinese,              % language = chinese | english
+  fontset   = template,             % fontset = default | template | system | overleaf
+  watermark = false,                 % watermark = true | false
+  doi       = false,                 % doi = true | false
+]{ntuthesis}
+
+\input{ntusetup}
+
+\begin{document}
+% 封面與口試審定
+% Cover and Verification Letter
+\makecover                          % 論文封面（Cover）
+\makerecommendationLetter			% 指導教授推薦書（Verification Letter）
+\makeverification                   % 口試委員審定書（Verification Letter）
+% 致謝與論文摘要
+% Acknowledgement and Abstract
+\input{front/acknowledgement}       % 致謝（Acknowledgement）
+\input{front/abstract}              % 摘要（Abstract）
+
+% 生成目錄與符號列表
+% Contents of Tables and Denotation
+\maketableofcontents                % 目錄（Table of Contents）
+\newcommand{\loflabel}{圖}%新增的
+\renewcommand{\numberline}[1]{\loflabel~#1.\hspace*{1em}}%新增的
+\makelistoffigures                  % 圖目錄（List of Figures）
+\newcommand{\lotlabel}{表}%新增的
+\renewcommand{\numberline}[1]{\lotlabel~#1.\hspace*{1em}}%新增的
+\makelistoftables                   % 表目錄（List of Tables）
+\input{front/denotation}            % 符號列表（Denotation）
+
+% 論文內容
+% Contents of Thesis
+\mainmatter
+\input{contents/chapter01}
+\input{contents/chapter02}
+\input{contents/chapter03}
+\input{contents/chapter04}
+\input{contents/chapter05}
+
+% 參考文獻
+% References
+\refmatter
+\normalem % 取消IEEE格式的期刊名稱下劃線
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,back/references}
+
+
+% 附錄
+% Appendices
+%\input{back/appendix01}
+%\input{back/appendix02}
+
+%書背
+%\makeBack
+\end{document}
